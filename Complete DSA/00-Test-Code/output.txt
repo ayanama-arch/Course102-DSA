@@ -1,0 +1,2 @@
+Enter number to reverse:  
+Answer is: 54321
